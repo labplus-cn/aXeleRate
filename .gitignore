@@ -1,0 +1,9 @@
+/results/*
+**/__pycache__/
+**/private
+.vscode
+axelerate/networks/common_utils/ncc-linux-x86_64.tar.xz
+axelerate/networks/common_utils/ncc-win7-x86_64.zip
+axelerate/networks/common_utils/ncc_win
+axelerate/networks/common_utils/ncc_linux
+
